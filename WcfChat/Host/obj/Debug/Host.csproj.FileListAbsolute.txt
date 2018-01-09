@@ -1,0 +1,7 @@
+D:\Work\H6K1XW\WcfChat\Host\bin\Host.dll.config
+D:\Work\H6K1XW\WcfChat\Host\bin\Host.dll
+D:\Work\H6K1XW\WcfChat\Host\bin\Host.pdb
+D:\Work\H6K1XW\WcfChat\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\Work\H6K1XW\WcfChat\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\Work\H6K1XW\WcfChat\Host\obj\Debug\Host.dll
+D:\Work\H6K1XW\WcfChat\Host\obj\Debug\Host.pdb

@@ -1,0 +1,7 @@
+D:\Work\H6K1XW\WCFApp\WCFClient\bin\Debug\WCFClient.exe.config
+D:\Work\H6K1XW\WCFApp\WCFClient\bin\Debug\WCFClient.exe
+D:\Work\H6K1XW\WCFApp\WCFClient\bin\Debug\WCFClient.pdb
+D:\Work\H6K1XW\WCFApp\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+D:\Work\H6K1XW\WCFApp\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+D:\Work\H6K1XW\WCFApp\WCFClient\obj\Debug\WCFClient.exe
+D:\Work\H6K1XW\WCFApp\WCFClient\obj\Debug\WCFClient.pdb

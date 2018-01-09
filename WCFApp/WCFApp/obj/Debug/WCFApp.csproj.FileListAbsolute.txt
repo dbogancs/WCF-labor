@@ -1,0 +1,10 @@
+D:\Work\H6K1XW\WCFApp\WCFApp\bin\Debug\WCFApp.exe.config
+D:\Work\H6K1XW\WCFApp\WCFApp\bin\Debug\WCFApp.exe
+D:\Work\H6K1XW\WCFApp\WCFApp\bin\Debug\WCFApp.pdb
+D:\Work\H6K1XW\WCFApp\WCFApp\obj\Debug\WCFApp.csprojResolveAssemblyReference.cache
+D:\Work\H6K1XW\WCFApp\WCFApp\obj\Debug\WCFApp.csproj.CoreCompileInputs.cache
+D:\Work\H6K1XW\WCFApp\WCFApp\obj\Debug\WCFApp.exe
+D:\Work\H6K1XW\WCFApp\WCFApp\obj\Debug\WCFApp.pdb
+C:\Users\Danasyo\Desktop\WCFApp\WCFApp\WCFApp\bin\Debug\WCFApp.exe.config
+C:\Users\Danasyo\Desktop\WCFApp\WCFApp\WCFApp\obj\Debug\WCFApp.exe
+C:\Users\Danasyo\Desktop\WCFApp\WCFApp\WCFApp\obj\Debug\WCFApp.pdb

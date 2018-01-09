@@ -1,0 +1,10 @@
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\bin\Debug\WCFHost.exe.config
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\bin\Debug\WCFHost.exe
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\bin\Debug\WCFHost.pdb
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.csprojResolveAssemblyReference.cache
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.exe
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.pdb
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\bin\Debug\WcfServiceLibrary1.dll
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\Work\H6K1XW\WcfServiceLibrary1\WCFHost\bin\Debug\WcfServiceLibrary1.dll.config
